@@ -126,7 +126,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -219,3 +218,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 module-6/deployment/docker-compose.yml
+
+# Environment variables
+.env
